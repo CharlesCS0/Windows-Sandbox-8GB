@@ -21,11 +21,12 @@ This config changes the default Windows Sandbox settings:
 5. Click on "Windows Sandbox"
 
 # Requirement
-- Windows Pro
-- Windows Enterprise
-- Windows Education
+- Windows 10 Pro / Enterprise / Education
+- Windows 11 Pro / Enterprise / Education
 - Windows Sandbox feature enabled
 - Virtualization capabilities enabled in BIOS
+
+**Note: Sandbox is not available for the Home verison of Windows 10 or 11**
 
 # Links
 
