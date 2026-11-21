@@ -14,3 +14,8 @@ The config changes the default sandbox setting to the following:
 4. Click on "Open with"
 5. Click on "Windows Sandbox"
 
+# Links
+
+Microsoft Learn - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-configure-using-wsb-file
+
+Video - https://www.youtube.com/watch?v=v7crnKhSLws
