@@ -2,7 +2,7 @@
 
 # This config
 This config changes the default Windows Sandbox settings:
-- Increases the memory from 4gb to 8gb
+- Increases the memory from 4gb (4096mb) to 8gb (8192mb)
 - Enables protected client
 
 **Note: You can change these settings or add your own by editing the .wsb configuration file.**
