@@ -1,4 +1,4 @@
-# Windows-Sandbox-Custom-Config
+# Windows-Sandbox-8GB
 
 # This config
 This config changes the default Windows Sandbox settings:
