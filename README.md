@@ -1,11 +1,11 @@
 # Windows-Sandbox-Custom-Config
 
 # This config
-The config changes the default sandbox setting to the following:
+This config changes the default Windows Sandbox settings:
 - Increases the memory from 4gb to 8gb
 - Enables protected client
 
-**Note: You can change these settings and add your own by editing the text file.**
+**Note: You can change these settings or add your own by editing the .wsb configuration file.**
 
 # How to use this config
 1. Download the file
