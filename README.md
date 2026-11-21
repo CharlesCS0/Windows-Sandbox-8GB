@@ -7,6 +7,12 @@ This config changes the default Windows Sandbox settings:
 
 **Note: You can change these settings or add your own by editing the .wsb configuration file.**
 
+# How to enable sandbox
+1. Go to the Windows search bar
+2. Type "Windows features"
+3. Enable "Windows Sandbox"
+4. Restart your device
+
 # How to use this config
 1. Download the file
 2. Put it in a location you would remember
