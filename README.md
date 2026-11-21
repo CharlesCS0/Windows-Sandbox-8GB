@@ -14,8 +14,17 @@ This config changes the default Windows Sandbox settings:
 4. Click on "Open with"
 5. Click on "Windows Sandbox"
 
+# Requirement
+- Windows Pro
+- Windows Enterprise
+- Windows Education
+- Windows Sandbox feature enabled
+- Virtualization capabilities enabled in BIOS
+
 # Links
 
-Microsoft Learn - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-configure-using-wsb-file
+Microsoft - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-install
+
+Microsoft - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-configure-using-wsb-file
 
 Video - https://www.youtube.com/watch?v=v7crnKhSLws
