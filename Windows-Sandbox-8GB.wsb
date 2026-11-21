@@ -1,0 +1,4 @@
+<Configuration>
+    <ProtectedClient>Enable</ProtectedClient>
+    <MemoryInMB>8192</MemoryInMB>
+</Configuration>
