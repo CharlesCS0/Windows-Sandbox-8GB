@@ -1,11 +1,14 @@
 # Windows-Sandbox-8GB
 
-# This config
-The first config changes the default Windows Sandbox settings:
+# Configurations
+Windows-Sandbox-8GB.wsb
 - Increases the memory from 4gb (4096mb) to 8gb (8192mb)
 - Enables protected client
 
-The second one does the same but has no internet connection
+Windows-Sandbox-8GB-Offline.wsb
+- Increases the memory from 4gb (4096mb) to 8gb (8192mb)
+- Enables protected client
+- Disables the internet connection.
 
 **Note: You can change these settings or add your own by editing the <kbd>.wsb</kbd> configuration file.**
 
