@@ -1,0 +1,5 @@
+<Configuration>
+    <ProtectedClient>Enable</ProtectedClient>
+    <Networking>value</Networking>
+    <MemoryInMB>8192</MemoryInMB>
+</Configuration>
